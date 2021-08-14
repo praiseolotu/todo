@@ -305,7 +305,7 @@ Grocery List
   color: var(--clr-red-dark);
 }
 
-@media screen and (max-width: 330px) {
+@media screen and (max-width: 320px) {
   .grocery {
     background: var(--clr-grey-10);
     border-top-left-radius: var(--radius);
